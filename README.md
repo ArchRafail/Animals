@@ -1,5 +1,5 @@
 # Animals
-ASP.Net project of animals with RAM repository and write into local file
+ASP.Net project of animals with RAM repository. Program can write information into local file
 </br>
 </br>
 Program operating conditions.</br>
